@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practica</string>
+    <string name="title">MBRT_App</string>
+    <string name="a">\@strings/usuarios</string>
+
+    <string-array name="usuarios">
+        <item>cliente</item>
+        <item>supervisor</item>
+        <item>tecnico</item>
+    </string-array>
+
+
+</resources>
